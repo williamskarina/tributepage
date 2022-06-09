@@ -10,5 +10,5 @@ Fun Facts!
 Click on the Link!
 ## Credits
 Karina W.
-## License
+
 
