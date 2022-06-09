@@ -7,9 +7,7 @@ Life Span, Size, and Weight
 Personality
 Fun Facts!
 ## Installation
-Click on the Link
-## Usage
-NA
+Click on the Link!
 ## Credits
 Karina W.
 ## License
